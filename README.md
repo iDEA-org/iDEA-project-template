@@ -38,6 +38,6 @@ Location of Documentation
 |   |-- output            <- Output data
 |-- docs                  <- Documentation
 |-- notebooks             <- Jupyter notebooks
-|-- iDEA-project-template <- Source files
+|-- iDEA_project_template <- Source files
 `-- tests                 <- Unit tests
 ```
