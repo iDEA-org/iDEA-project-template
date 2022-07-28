@@ -14,13 +14,13 @@ Requirements
 
 ## Usage
 
-`cd iDEA-project-template`
+`cd iDEA_project_template`
 
 `python main.py`
 
 ## Example
 
-`cd iDEA-project-template`
+`cd iDEA_project_template`
 
 `python main.py`
 
